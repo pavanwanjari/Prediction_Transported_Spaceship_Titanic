@@ -36,6 +36,7 @@ In this competition your task is to predict whether a passenger was transported 
 * `RoomService`, `FoodCourt`, `ShoppingMall`, `Spa`, `VRDeck` - Amount the passenger has billed at each of the Spaceship Titanic's many luxury amenities.
 * `Name` - The first and last names of the passenger.
 * `Transported` - Whether the passenger was transported to another dimension. This is the target, the column you are trying to predict.
+
 **test.csv** - Personal records for the remaining one-third (~4300) of the passengers, to be used as test data. Your task is to predict the value of Transported for the passengers in this set.
 
 **sample_submission.csv** - A submission file in the correct format.
